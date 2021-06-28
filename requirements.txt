@@ -1,0 +1,4 @@
+WAMP/XAMPP software
+Http Apache 2.4+
+MySQL 5.7+
+PHP 7.3+
